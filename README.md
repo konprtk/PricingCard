@@ -29,6 +29,10 @@ To get a copy of this project up and running on your local machine, follow these
 
 2. Open the `index.html` file in your web browser to view the pricing card.
 
+## OR
+1. To check web page click below link:
+  - [Pricing Card](https://konprtk.github.io/PricingCard/)
+
 ## Usage
 Feel free to use this project as a reference for your own front-end development work or as a starting point for similar projects. You can customize the content, styles, and functionality to suit your needs.
 
