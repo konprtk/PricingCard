@@ -30,7 +30,7 @@ To get a copy of this project up and running on your local machine, follow these
 2. Open the `index.html` file in your web browser to view the pricing card.
 
 ## OR
-1. To check web page click below link:
+1. To check or view web page click below link:
   - [Pricing Card](https://konprtk.github.io/PricingCard/)
 
 ## Usage
