@@ -24,7 +24,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/PriceCardCodeChallenge.git
+   git clone https://github.com/konprtk/PricingCard.git
    ```
 
 2. Open the `index.html` file in your web browser to view the pricing card.
